@@ -1,1 +1,1 @@
-# Mathematical_model_for_event_related_potential_signals
+# Mathematical model for event related potential signals
